@@ -7,7 +7,7 @@ import Image from "next/image"
 
 export function Steps() {
   return (
-    <section className="w-full py-12 md:py-24 lg:py-32">
+    <section className="py-12 lg:py-32">
       <div className="container grid gap-8 px-4 md:px-6 lg:grid-cols-3">
         <div className="absolute top-0 left-0 mt-4 ml-4">
           <Image
