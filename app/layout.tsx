@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "APIs 101 using Postman and ITGeeks",
-  description: "Learn how to use APIs with Postman and ITGeeks -sohaib MANAH",
+  description: "Learn how to use APIs with Postman and ITGeeks -SOHAIB MANAH",
 };
 
 export default function RootLayout({
